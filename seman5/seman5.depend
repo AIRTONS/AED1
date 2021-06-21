@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599607226 source:/home/airton/Documentos/seman5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

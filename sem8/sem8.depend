@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601410213 source:/home/airton/Documentos/sem8/main.c
+	<stdio.h>
+	<stdlib.h>
+

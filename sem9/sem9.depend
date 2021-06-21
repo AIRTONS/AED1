@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601925772 source:/home/airton/Documentos/sem9/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1614265718 source:/home/airton/Documentos/aed20201/sem9/main.c
+	<stdio.h>
+	<stdlib.h>
+

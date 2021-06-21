@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600219604 source:/home/airton/Documentos/sem5listacirc/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599004155 source:/home/airton/Documentos/sem4filaseq/main.c
+	<stdio.h>
+	<stdlib.h>
+
